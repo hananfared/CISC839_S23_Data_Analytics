@@ -5,5 +5,5 @@
 
 > CISC 839 Topics in Information Systems: Topics in Data Analytics WS23/23  Queen's University
 
-
+> You can see the final project from this [Github link](https://github.com/hananfared/Fraud_Detection)
 
